@@ -1,1 +1,1 @@
-# GRAPH_MOL
+# MOL_CLASS
